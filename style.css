@@ -176,7 +176,8 @@
     height: 50px;
     display: flex;
     justify-content: center;
-    align-items: 0.85rem;
+    /* align-items: 0.85rem; */
+    align-items: center;
     font-size: 0.85rem;
 }
 .foot-panel2{
